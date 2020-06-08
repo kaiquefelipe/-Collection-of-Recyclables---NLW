@@ -1,10 +1,10 @@
 # CollectionOfRecyclables-NLW
 
-## OBJETIVO**
+## **OBJETIVO**
 
 Projeto construído especialmente para o evento "Next Level Week" promovido pela rocketseat utilizando TypeScript, NodeJS, React e React-Native. Projeto que tem como objetivo ser o mediador entre quem deseja coletar resíduos orgânicos e quem deseja se desfazer de forma correta dos mesmos
 
-## TECNOLOGIAS**
+## **TECNOLOGIAS**
 
 
 #### **Web** ([React][react] + [TypeScript][typescript])
